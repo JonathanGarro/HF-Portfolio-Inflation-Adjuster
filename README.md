@@ -15,6 +15,8 @@ The project uses two main data sources:
 - `grants_data.csv`: Contains historical grant data including request reference numbers, amounts, grant types, approval dates, and primary program categories
 - `inflation_history.csv`: Contains yearly inflation rates from 1913 to 2024
 
+To refresh the source data, use Hewlett GMS report `00OUf000004sexRMAQ`
+
 ## Inflation Calculation Methodology
 
 The inflation adjustment is performed using the following methodology:
