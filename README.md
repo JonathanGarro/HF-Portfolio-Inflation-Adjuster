@@ -1,4 +1,4 @@
-# Grant Visualization Project
+# Grant Portfolio with Inflation Adjustment Visualization and Analysis
 
 This project analyzes historical grant data and creates visualizations showing grant amounts by year and primary program category. It provides both nominal values and inflation-adjusted values to allow for meaningful comparisons across different time periods.
 
